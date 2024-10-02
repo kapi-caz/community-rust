@@ -1,5 +1,6 @@
 extern crate bar;
 extern crate foo;
+use bar::Bar_foo;
 
 fn main() {
 
